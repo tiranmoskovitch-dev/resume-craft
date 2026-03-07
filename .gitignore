@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+my_profile.json
+user_info_template.json
+*_output.md
+output/
