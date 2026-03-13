@@ -1,7 +1,11 @@
 __pycache__/
 *.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
 .env
-my_profile.json
-user_info_template.json
-*_output.md
-output/
+.venv/
+venv/
+*.log
+.DS_Store
